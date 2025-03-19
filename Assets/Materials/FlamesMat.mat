@@ -109,7 +109,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - BaseColor_: {r: 0.345098, g: 3.466667, b: 3.498039, a: 0.3882353}
+    - BaseColor_: {r: 0.30356234, g: 2.2301195, b: 4.14146, a: 0.3882353}
     - DissolveSpeed_: {r: -0.1, g: -0.5, b: 0, a: 0}
     - DistortionSpeed_: {r: 0, g: -0.3, b: 0, a: 0}
     - RimColor_: {r: 1, g: 1, b: 1, a: 1}
